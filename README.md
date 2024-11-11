@@ -1,6 +1,6 @@
 # 👨‍💻 Kabir Bose
 
-**`Cybersecurity, Network Engineering, & Software Engineering`**
+**`Cybersecurity, Network Engineering, Software Engineering, DevOps, AI/ML`**
 
 I am currently a university student in Toronto, Canada. I enjoy many different fields of technology, including: software engineering, network engineering, DevOps, cybersecurity, and AI/ML. I am specializing in networking and cybersecurity. I am also a Network Engineering Intern in Toronto.
 
