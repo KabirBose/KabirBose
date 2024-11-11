@@ -2,7 +2,9 @@
 
 **`Cybersecurity, Network Engineering, & Software Engineering`**
 
-I am currently a student in Toronto, Canada 🇨🇦. Check out some of my projects... you might find them really useful!
+I am currently a university student in Toronto, Canada. I enjoy many different fields of technology, including: software engineering, network engineering, DevOps, cybersecurity, and AI/ML. I am specializing in networking and cybersecurity. I am also a Network Engineering Intern in Toronto.
+
+Below, you can see a few of the tools and technologies I am familiar with. Also make sure to check out some of my projects... you might find them really useful! You can also contact me any time through LinkedIn or my portfolio (both linked below).
 
 ### 🧰 Languages and Tools
 
