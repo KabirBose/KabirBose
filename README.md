@@ -10,7 +10,7 @@
 
 ### 🛠️ About Me  
 - 🖥️ **Network Engineering Intern @ CBC** (managing media-production infrastructure)  
-- 🎓 **3rd-year IT Student @ Ontario Tech University**  
+- 🎓 **3rd-year Networking & IT Student @ Ontario Tech University**  
 - ⚡ Passionate about **networking, cybersecurity, and full-stack development**  
 - ⚽ Enjoy **soccer, swimming, and working out**  
 
